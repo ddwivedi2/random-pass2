@@ -16,7 +16,7 @@
   "homepage": "https://github.com/ddwivedi2/random-pass2#readme",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "password-generator": "^2.2.0"
   }
 }
